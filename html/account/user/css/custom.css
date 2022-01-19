@@ -1,0 +1,33 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.qr_img {
+    width: 250px;
+}
+
+.custom-pagination {}
+
+.font-20 {
+    font-size: 20px !important;
+}
+
+.font-14 {
+    font-size: 15px !important;
+}
+
+.report-card .report-main-icon {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.chart-report-card h3,
+.report-card h3 {
+    font-weight: 600;
+    font-size: 15px !important;
+}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 576px) {}
+
